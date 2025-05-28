@@ -5,7 +5,7 @@ Development operation focused on small Unmanned Aerial Systems.
 
 ## Dr Nicholas Weaver
 
-![Nicholas Weaver](_resources/headshot.png)
+![Nicholas Weaver](resources/headshot.png)
 
 Nicholas Weaver obtained his Ph.D. from the University of California
 at Berkeley in 2003.  His primary research focus is on digital,
