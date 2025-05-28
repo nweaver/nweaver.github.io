@@ -1,7 +1,9 @@
-## Putting the Science in Mad Science
+## Putting the *Science* in Mad Science
 
 Welcome to Skerry Technologies, my (currently one-man) Research and
 Development operation focused on small Unmanned Aerial Systems.
+Although, in all honesty, it more like "mad engineering" rather than
+mad science.
 
 ## Dr Nicholas Weaver
 
