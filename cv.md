@@ -20,7 +20,13 @@ International Computer Science Institute<BR>
 
 
 
-Publications
+### Publications
+
+- [Extracting Godl \[sic\] from the Salt Mines: Ethereum Miners Extracting Value](papers/2022-WEIS-godl.pdf)<BR>
+  J. Piet, J. Fairoze, N. Weaver.  *Workshop on Economics and Information Security 2022.*
+
+- [Cache Me Outside: A New Look at DNS Cache Probing](papers/2021-PAM-cache.pdf)<BR>
+A. A. Niaki, W. Marczak, S. Farhoodi, A. McGregor, P. Gill, N. Weaver.  *Passive and Active Measurement 2021*
 
     Host of Troubles: Multiple Host Ambiguities in HTTP Implementations
 
