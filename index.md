@@ -9,22 +9,22 @@ mad science.
 
 <img align="right" src="resources/headshot.png" alt="Nicholas Weaver">
 
-Nicholas Weaver obtained his Ph.D. from the University of California
-at Berkeley in 2003.  His primary research focus is on digital,
+I obtained his Ph.D. from the University of California
+at Berkeley in 2003.  My primary research focus is on digital,
 explainable, and commonly adversarial systems.
 
 Within that, however, is a huge range of topics.  Down at the lowest
-level he's designed his own custom boards and an FPGA architecture,
+level i've designed my own custom boards and an FPGA architecture,
 while the high level has ranged up to sophisticated network
 measurement techniques and economic disruption of nefarious actors.
 
-When it comes to UAS systems his primary focus is on hardware/software
-co-design to enable autonomous operation.  He's developed an autopilot
+When it comes to UAS systems my primary focus is on hardware/software
+co-design to enable autonomous operation.  I've developed an autopilot
 that can mate a Raspberry Pi compute module to an ardupilot-based
-autopilot and is now working on developing his own from-scratch
-autopilot based on co-designed software and hardware.
+autopilot as a proof of concept and I am now working on developing my
+own from-scratch autopilot based on co-designed software and hardware.
 
-His CV is [available here](cv) and his nontechnical writing is mostly
+My CV is [available here](cv) and my nontechnical writing is mostly
 published at [Lawfare
 Media](https://www.lawfaremedia.org/contributors/nweaver)
 
