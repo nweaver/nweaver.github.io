@@ -27,3 +27,5 @@ autopilot based on co-designed software and hardware.
 His CV is [available here](cv) and his nontechnical writing is mostly
 published at [Lawfare
 Media](https://www.lawfaremedia.org/contributors/nweaver)
+
+<br clear="right">
