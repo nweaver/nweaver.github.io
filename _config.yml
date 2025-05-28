@@ -1,0 +1,15 @@
+title: Nicholas Weaver
+description: >- # this means to ignore newlines until "baseurl:"
+Nicholas Weaver's Skerry Technologies: Mad Science in Action  
+baseurl: ""
+url: "https://skerry-tech.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+# plugins:
+#   - jekyll-feed
+
+incremental: true
+
+keep_files: [.git, CNAME]
+
