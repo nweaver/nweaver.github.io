@@ -28,6 +28,15 @@ International Computer Science Institute<BR>
 - [Cache Me Outside: A New Look at DNS Cache Probing](papers/2021-PAM-cache.pdf)<BR>
 A. A. Niaki, W. Marczak, S. Farhoodi, A. McGregor, P. Gill, N. Weaver.  *Passive and Active Measurement 2021*
 
+- [The Web3 Fraud](https://www.usenix.org/publications/loginonline/web3-fraud)<BR>
+N. Weaver. *Usenix ;Login:* December 2021
+
+- [Cryptocurrency: Burn it With Fire](https://www.usenix.org/conference/enigma2019/presentation/weaver)<BR>
+N. Weaver, *Usenix ENIGMA 2019*
+
+- [The RISKS of Cryptocurrencies](papers/2018-risks.pdf)<BR>
+N. Weaver, *Communications of the ACM* June 2018
+
     Host of Troubles: Multiple Host Ambiguities in HTTP Implementations
 
     J Chen, J Jiang, H. Duan, N. Weaver, T. Wan, V. Paxson. ACM CCS 2016
