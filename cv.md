@@ -8,18 +8,17 @@ International Computer Science Institute<BR>
 [nweaver@gmail.com](mailto:nweaver@gmail.com)<BR>
 [nweaver@skerry-tech.com](mailto:nweaver@gmail.com)<BR>
 
-Education
+### Education
 
-    Ph D, Computer Science, University of California at Berkeley
+- Ph D, Computer Science, University of California at Berkeley <BR>
+  Completed October 15th, 2003. Degree Conferred December 2003 <BR>
+  Dissertation Title: [*The SFRA: A Fixed Frequence FPGA Architecture*](papers/nweaver_thesis.pdf)<BR>
+  Committee: John Wawrzynek (chair), John Kubitowitz, and Steve Brenner <BR>
 
-    Completed October 15th, 2003. Degree Conferred December 2003
-    Dissertation Title: The SFRA: A Fixed Frequence FPGA Architecture
-    Committee: John Wawrzynek (chair), John Kubitowitz, and Steve Brenner
-    Dissertation: pdf
+- BA, Astrophysics and Computer Science, University of California at Berkeley <BR>
+  Degree Conferred Spring 1995
 
-    BA, Astrophysics and Computer Science, University of California at Berkeley
 
-    Degree Conferred Spring 1995
 
 Publications
 
