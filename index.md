@@ -24,7 +24,7 @@ that can mate a Raspberry Pi compute module to an ardupilot-based
 autopilot as a proof of concept and I am now working on developing my
 own from-scratch autopilot based on co-designed software and hardware.
 
-My CV is [available here](cv) and my nontechnical writing is mostly
+My CV is [available here](cv.html) and my nontechnical writing is mostly
 published at [Lawfare
 Media](https://www.lawfaremedia.org/contributors/nweaver)
 
