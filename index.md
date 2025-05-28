@@ -7,7 +7,7 @@ mad science.
 
 ## Dr Nicholas Weaver
 
-![Nicholas Weaver](resources/headshot.png)
+<img align="right" src="resources/headshot.png" alt="Nicholas Weaver">
 
 Nicholas Weaver obtained his Ph.D. from the University of California
 at Berkeley in 2003.  His primary research focus is on digital,
