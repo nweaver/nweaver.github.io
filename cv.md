@@ -1,4 +1,6 @@
-# Nicholas Weaver's CV
+--
+title: Nicholas Weaver's CV
+--
 
 Nicholas Weaver<BR>
 International Computer Science Institute<BR>
@@ -36,6 +38,12 @@ N. Weaver, *Usenix ENIGMA 2019*
 
 - [The RISKS of Cryptocurrencies](papers/2018-risks.pdf)<BR>
 N. Weaver, *Communications of the ACM* June 2018
+
+- [The Accuracy of the Demographic Inferences Shown on Google's Ad Settings](papers/2018-ads.pdf)<BR>
+M. Tschantz, S. Egelman, J. Choi, N. Weaver, G. Friedland.  *Workshop on Privacy in the Electronic Society 2018*
+
+- [Global Measurement of DNS Manipulation]
+
 
     Host of Troubles: Multiple Host Ambiguities in HTTP Implementations
 
