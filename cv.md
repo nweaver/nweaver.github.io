@@ -251,29 +251,29 @@ D. Ellis and N. Weaver. *Annual Computer Security Applications Conference (ACSAC
 
 ### Classes Instructed
 
-- Computer Science 36B (Object Oriented Programing), UC Davis.  Fall 2024, Spring 2025
+- Computer Science 36B (Object Oriented Programing), *University of California at Davis*:  Fall 2024, Spring 2025
 
-- Computer Science 158 (Programming Parallel Architectures), UC Davis. Spring 2025
+- Computer Science 158 (Programming Parallel Architectures), *University of California at Davis*: Spring 2025
 
-- Computer Science 50 (Machine Dependent Programming), UC Davis.  Spring 2024, Winter 2025
+- Computer Science 50 (Machine Dependent Programming), *University of California at Davis*:  Spring 2024, Winter 2025
 
-- Computer Science 142 (Compilers), UC Davis.  Winter 2025
+- Computer Science 142 (Compilers), *University of California at Davis*:  Winter 2025
 
-- Computer Science 32C (Data Structures in C), UC Davis, Fall 2024
+- Computer Science 32C (Data Structures in C), *University of California at Davis*: Fall 2024
 
-- Computer Science 36C (Data Structures), UC Davis, Winter 2024
+- Computer Science 36C (Data Structures), *University of California at Davis*: Winter 2024
 
-- Computer Science 32B (Data Structures), UC Davis, Fall 2023
+- Computer Science 32B (Data Structures), *University of California at Davis*: Fall 2023
 
-- Computer Science 302 (Pedagogy), UC Berkeley, Spring 2023
+- Computer Science 302 (Pedagogy), *University of California at Berkeley*: Spring 2023
 
-- Computer Science 161 (Computer Security), UC Berkeley, Fall 2016, Fall 2017, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Fall 2021, Spring 2022
+- Computer Science 161 (Computer Security), *University of California at Berkeley*: Fall 2016, Fall 2017, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Fall 2021, Spring 2022
 
-- Computer Science 61C (Computer Architecture), UC Berkeley, Summer 1998, Spring 2016, Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021, Fall 2021, Spring 2022
+- Computer Science 61C (Computer Architecture), *University of California at Berkeley*: Summer 1998, Spring 2016, Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021, Fall 2021, Spring 2022
 
-- Electrical Engineering and Computer Science 151 (Digital Design), UC Berkeley, Spring 2018
+- Electrical Engineering and Computer Science 151 (Digital Design), *University of California at Berkeley*: Spring 2018
 
-- Computer Science 194 (Special Topics in Networking), UC Berkeley, Spring 2017
+- Computer Science 194 (Special Topics in Networking), *University of California at Berkeley*: Spring 2017
 
 ### Professional Experience
 
