@@ -58,19 +58,17 @@ N. Weaver, V. Paxson.  *Internet Measurement Conference (IMC) 2016*
 J Chen, J Jiang, H. Duan, N. Weaver, T. Wan, V. Paxson. *ACM Communications and Computer Security (CCS) 2016*
 
 - [Detecting DNS Root Manipulation](papers/2016-PAM-dns.pdf)
-B. Jones, N. Feamster, V. Paxson, N. Weaver, and M. Allman, *Passive and Active Measurement (PAM) 2016*
+B. Jones, N. Feamster, V. Paxson, N. Weaver, M. Allman, *Passive and Active Measurement (PAM) 2016*
 
 - [The Golden Age of Bulk
   Surveillance](https://www.usenix.org/conference/enigma2016/conference-program/presentation/weaver)
   N. Weaver, *USENIX Enigma 2016*
 
-    Examining How the Great Firewall Discovers Hidden Circumvention Servers pdf
+- [Examining How the Great Firewall Discovers Hidden Circumvention Servers](papers/2015-IMC-circumvention.pdf)
+R. Ensafi, D. Fifield, P. Winter, N. Feamster, N. Weaver, V. Paxson. *ACM Internet Measurement Conference (IMC) 2015*
 
-    R. Ensafi, D. Fifield, P. Winter, N. Feamster, N. Weaver, and V. Paxson. ACM Internet Measurement Conference 2015
-
-    Cookies Lack Integrity: Real-World Implications web
-
-    X. Zheng, J. Jiang, J. Liang, H. Duan, S. Chen, T. Wan, and N. Weaver. Usenix Security 2015
+- [Cookies Lack Integrity: Real-World Implications](papers/2015-usenix-cookies.pdf)
+X. Zheng, J. Jiang, J. Liang, H. Duan, S. Chen, T. Wan, N. Weaver. *Usenix Security 2015*
 
     An Analysis of China's "Great Cannon" web
 
