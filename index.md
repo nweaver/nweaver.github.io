@@ -1,6 +1,7 @@
 ## Putting the *Science* in Mad Science
 
-Welcome to Skerry Technologies, my (currently one-man) Research and
+Welcome to Skerry Technologies, my (currently one-man, completely
+unfunded, almost might as well consider it a hobby) Research and
 Development operation focused on small Unmanned Aerial Systems.
 Although, in all honesty, it more like "mad engineering" rather than
 mad science.
