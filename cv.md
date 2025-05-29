@@ -1,7 +1,7 @@
 ---
 title: Nicholas Weaver's CV
 ---
-<img align="right" src="resources/headshot.png" alt="Nicholas Weaver">
+<img align="right" src="resources/headshot.png" alt="Nicholas Weaver" width=150>
 Nicholas Weaver<BR>
 International Computer Science Institute<BR>
 2150 Shattuck Ave. #250, Berkeley, CA 94704<BR>
