@@ -1,6 +1,6 @@
---
+---
 title: Nicholas Weaver's CV
---
+---
 
 Nicholas Weaver<BR>
 International Computer Science Institute<BR>
