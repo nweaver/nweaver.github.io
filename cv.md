@@ -82,10 +82,10 @@ R. Rasti, M. Murthy, N. Weaver, V. Paxson. *IEEE Symposium on Security and Priva
 B. Jones, R. Ensafi, N. Feamster, V. Paxson, N. Weaver. *SIGCOMM Workshop on Ethics in Networked Systems Research 2015*
 
 - [A Tangled Mass: The Android Root Certificate Stores](papers/2014-Conext.pdf)
-N. Vallina-Rodriguez, J. Amann, C. Kreibich, N. Weaver, V. Paxson. *ACM CoNEXT 2014* (**Best Short Paper award**)
+N. Vallina-Rodriguez, J. Amann, C. Kreibich, N. Weaver, V. Paxson. *ACM CoNEXT 2014* (**Best Short Paper Award**)
 
 - [The Matter of Heartbleed](papers/2014-imc-heartbleed.pdf)
-Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, J. Halderman. *Internet Measucement Conference (IMC) 2014* (**Best Paper award**)
+Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, J. Halderman. *Internet Measucement Conference (IMC) 2014* (**Best Paper Award**)
 
 - [Here Be Web Proxies](papers/2014-pam-proxies.pdf)
 N. Weaver, C. Kreibich, M. Dam V. Paxson, *Passive & Active Mesaurement (PAM) 2014*
@@ -93,45 +93,35 @@ N. Weaver, C. Kreibich, M. Dam V. Paxson, *Passive & Active Mesaurement (PAM) 20
 - [Internet Nameserver IPv4 and IPv6 Address Relationships](papers/2013-IMC.pdf)
 A. Berger, N. Weaver, R. Beverly, L. Campbell *Internet Measurement Conference (IMC) 2013*
 
-    Practical Comprehensive Bounds on Surreptitious Communication Over DNS
+- [Practical Comprehensive Bounds on Surreptitious Communication Over DNS](papers/2013-usenix-dns.pdf)
+V. Paxson, M. Christodorescu, M. Javed, J. Rao, R. Sailer, D. Schales, M. Stoecklin, K. Thomas, W. Venema, N. Weaver. *Usenix Security 2013*
 
-    V. Paxson, M. Christodorescu, M. Javed, J. Rao, R. Sailer, D. Schales, M. Stoecklin, K. Thomas, W. Venema, and N. Weaver, Usenix Security 2013, Washington, DC,
+- [Fathom: A Browser-based Network Measurement Platform](papers/2012-imc-fathom.pdf)
+M. Dhawan, J. Samuel, R. Teixeira, C. Kreibich, M. Allman, N. Weaver, V. Paxson. *Internet Measurement Conference (IMC) 2012*
 
-    Fathom: A Browser-based Network Measurement Platform
+- [PharmaLeaks: Understanding the Business of Online Pharmaceutical Affiliate Programs](2012-usesec-pharmaleaks.pdf)
+D. McCoy, A. Pitsillidis, G. Jordan, N. Weaver, C. Kreibich, B. Krebs, G. Voelker, S. Savage, K. Levchenko. *USENIX Security 2012*
 
-    M. Dhawan, J. Samuel, R. Teixeira, C. Kreibich, M. Allman, N. Weaver, V. Paxson. Internet Measurement Conference (IMC) 2012, Boston, MA, USA.
+- [Hold-On: Protecting Against DNS Packet Injection](papers/2012-satin-holdon.pdf)
+H. Duan, N. Weaver, Z. Zhao, M. Hu, J. Liang, J. Jiang, K. Li, V. Paxson. *Workshop on Securing and Trusting Internet Names (SATIN), 2012*
 
-    PharmaLeaks: Understanding the Business of Online Pharmaceutical Affiliate Programs pdf bib 2 citations
+- [The BIZ Top-Level Domain: Ten Years Later](papers/2012-pam-biz.pdf)
+T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Levchenko, V. Paxson. *Passive and Active Measurement Conference (PAM) 2012*
 
-    D. McCoy, A. Pitsillidis, G. Jordan, N. Weaver, C. Kreibich, B. Krebs, G. Voelker, S. Savage, K. Levchenko. USENIX Security Symposium, 2012, Bellevue/WA, USA.
+- [GQ: Practical Containment for Measuring Modern Malware Systems](papers/2011-imc-gq.pdf)
+C. Kreibich, N. Weaver, C. Kanich, W. Cui, V. Paxson. *Internet Measurement Conference (IMC) 2011*
 
-    Hold-On: Protecting Against DNS Packet Injection pdf bib
+- [Experiences from Netalyzr with Engaging Users in End-System Measurement](papers/2011-wmust-netalyzr.pdf)
+C. Kreibich, N. Weaver, G. Maier, B. Nechaev, V. Paxson. *ACM SIGCOMM Workshop on Measurements Up the Stack (W-MUST) 2011*
 
-    H. Duan, N. Weaver, Z. Zhao, M. Hu, J. Liang, J. Jiang, K. Li, and V. Paxson. Second Workshop on Securing and Trusting Internet Names (SATIN), 2012, Teddington, UK.
+- [Redirecting DNS for Ads and Profit](papers/2011-foci-dns.pdf)
+N. Weaver, C. Kreibich, V. Paxson. *USENIX Workshop on Free and Open Communications on the Internet (FOCI) 2011*
 
-    The BIZ Top-Level Domain: Ten Years Later pdf bib
+- [Show Me the Money: Characterizing Spam-advertised Revenue](papers/2011-usesec-purchasepair.pdf)
+    C. Kanich, N. Weaver, D. McCoy, T. Halvorson, C. Kreibich, K. Levchenko, V. Paxson, G. Voelker, S. Savage. *USENIX Security Symposium 2011*
 
-    T. Halvorson, J. Szurdi, G. Maier, M. Felegyhazi, C. Kreibich, N. Weaver, K. Levchenko, V. Paxson. Passive and Active Measurement Conference, 2012, Vienna, Austria.
-
-    GQ: Practical Containment for Measuring Modern Malware Systems pdf bib 5 citations
-
-    C. Kreibich, N. Weaver, C. Kanich, W. Cui, V. Paxson. Internet Measurement Conference (IMC) 2011, Berlin, Germany.
-
-    Experiences from Netalyzr with Engaging Users in End-System Measurement pdf bib
-
-    C. Kreibich, N. Weaver, G. Maier, B. Nechaev, V. Paxson. ACM SIGCOMM Workshop on Measurements Up the Stack (W-MUST), 2011, Toronto, Canada.
-
-    Redirecting DNS for Ads and Profit pdf bib
-
-    N. Weaver, C. Kreibich, V. Paxson. USENIX Workshop on Free and Open Communications on the Internet (FOCI), 2011, San Francisco, USA.
-
-    Show Me the Money: Characterizing Spam-advertised Revenue pdf bib 19 citations
-
-    C. Kanich, N. Weaver, D. McCoy, T. Halvorson, C. Kreibich, K. Levchenko, V. Paxson, G. Voelker, S. Savage. USENIX Security Symposium, 2011, San Francisco, USA.
-
-    Click Trajectories: End-to-End Analysis of the Spam Value Chain pdf bib 33 citations
-
-    K. Levchenko, A. Pitsillidis, N. Chachra, B. Enright, M. Felegyhazi, C. Grier, T. Halvorson, C. Kanich, C. Kreibich, H. Liu, D. McCoy, N. Weaver, V. Paxson, G. M. Voelker, and S. Savage. IEEE Symposium on Security and Privacy, 2011, Oakland, USA.
+- [Click Trajectories: End-to-End Analysis of the Spam Value Chain](papers/2011-oakland-trajectory.pdf)
+K. Levchenko, A. Pitsillidis, N. Chachra, B. Enright, M. Felegyhazi, C. Grier, T. Halvorson, C. Kanich, C. Kreibich, H. Liu, D. McCoy, N. Weaver, V. Paxson, G. M. Voelker, and S. Savage. *IEEE Symposium on Security and Privacy 2011* (**Test of Time Award**), Oakland, USA.
 
     Implications of Netalyzr's DNS Measurements pdf bib
 
