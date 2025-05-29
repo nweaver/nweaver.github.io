@@ -168,126 +168,72 @@ W. Cui, V. Paxson, N. Weaver, R. Katz, *Network and Distributed Security Symposi
 - [Exploting Unterlying Structure for Detailed Reconstruction of an Internet Scale Event](papers/2005-reconstruction.pdf)
 A. Kumar, V. Paxson, N. Weaver, *ACM Internet Measurement Conference (IMC) 2005*
 
-    Templace
+- [The Top Speed of Flash Worms](papers/2004-flash.pdf)
+S. Staniford, D. Moore, V. Paxson, N. Weaver. *ACM Workshop on Rapid Malcode (WORM) 2004*
 
-    The Top Speed of Flash Worms pdf bib
+- [Preliminary Results Using Scale-Down to Explore Worm Dynamics](papers/2004-scaledown.pdf)
+N. Weaver, I. Hamadeh, G. Kesidis, V. Paxson. *ACM Workshop on Rapid Malcode (WORM) 2004*
 
-    S. Staniford, D. Moore, V. Paxson, and N. Weaver, 2nd ACM Workshop on Rapid Malcode (WORM), 2004
+- [Worms vs Perimeters: The Case for HardLANs](papers/2004-perimeters.pdf)
+N. Weaver, D. Ellis, S. Staniford, V. Paxson. *Hot Interconnects 2004*
 
-    Preliminary Results Using Scale-Down to Explore Worm Dynamics pdf bib
+- [Reflections on the Witty Worm: Analyzing the Attacker](papers/2004-witty.pdf)
+N. Weaver and D. Ellis. *;login: June 2004*
 
-    N. Weaver, I. Hamadeh, G. Kesidis, and V. Paxson, 2nd ACM Workshop on Rapid Malcode (WORM), 2004
+- [Very Fast Containment of Scanning Worms](papers/2004-containment.pdf)
+N. Weaver, S. Staniford, V. Paxson. *USENIX Security Conference 2004*
 
-    Worms vs Perimeters: The Case for HardLANs pdf bib
+- [A Worst-Case Worm](papers/2004-worstcase.pdf)
+N. Weaver and V. Paxson.  *Workshop on Economics and Information Security (WEIS) 2004*
 
-    N. Weaver, D. Ellis, S. Staniford, and V. Paxson, Hot Interconnects, 2004
+- [The SFRA: A Corner-Turn FPGA Architecture](papers/2004-sfra.pdf)
+N. Weaver, J. Hauser, J. Wawrzynek. *ACM Symposium on Field Programmable Gate Arrays (FPGA) 2004*
 
-    Reflections on the Witty Worm: Analyzing the Attacker pdf bib
+- [A Taxonomy of Computer Worms](papers/2003-taxonomy.pdf)
+N. Weaver, V. Paxson, S. Staniford, R. Cunningham.  *Workshop on Rapid Malcode (WORM) 2003*
 
-    N. Weaver and D. Ellis. ;login:, June 2004
+- [Inside the Slammer Worm](papers/2003-slammer.pdf)
+D. Moore, V. Paxson, S. Savage, C. Shannon, S. Staniford, N. Weaver. *IEEE Magazine of Security and Privacy*
 
-    Very Fast Containment of Scanning Worms pdf bib
+- [Post Placement C-slow Retiming for the Xilinx Virtex FPGA](papers/2003-cslow.pdf)
+N. Weaver, Y. Markovskiy, Y. Patel, J. Wawrzynek. *ACM Symposium on Field Programmable Gate Arrays (FPGA) 2003*
 
-    N. Weaver, S. Staniford, and V. Paxson. USENIX Security Conference, 2004
+- [How to 0wn the Internet in Your Spare Time](papers/2002-0wn.pdf)
+V. Paxson, S. Staniford, N. Weaver. *USENIX Security Symposium 2002*
 
-    A Worst-Case Worm pdf bib
+- [A Comparison of the AES Candidates Amenability to FPGA Implementation](2000-aes.pdf)
+N. Weaver and J. Wawrzynek. *The Third Advanced Encryption Standard (AES) Candidate Conference, 2000*
 
-    N. Weaver and V. Paxson. Workshop on Economics and Information Security (WEIS) 2004
+- [Object-Oriented Circuit Generators in Java](papers/1998-generators.pdf)
+M. Chu, N. Weaver, J. Sulimma, A. DeHon, J. Wawrzynek. *IEEE Symposium on Field Programmable Custom Computing Machines (FCCM) 1998*
 
-    The SFRA: A Corner-Turn FPGA Architecture pdf bib
+### Book Chapters
 
-    N. Weaver, J. Hauser, and J. Wawrzynek, ACM Symposium on Field Programmable Gate Arrays (FPGA), February 2004
+- *Very Fast Containment of Scanning Worms, Revisited*
+N. Weaver, S. Staniford, and V. Paxson. From *Malware Detection*, edited by Mihai Christodorescu, Somesh Jha, Douglas Maughan, Dawn Song, and Cliff Wang, Published by Springer/Verlag Copyright 2007, ISBN 978-0-387-32720-4, Pages 113-145
 
-    A Taxonomy of Computer Worms pdf bib
+- *Chapter 18: Retiming, Repipelining, and C-Slow Retiming*
+N. Weaver. From *Reconfigurable Computing: The Theory and Practice of FPGA-Based Computing*, edited by Scott Hauck and Andre DeHon, Published by Morgan Kaufmann/Elsevier. Copyright 2007, ISBN 978-0123705228, Pages 383-400
 
-    N. Weaver, V. Paxson, S. Staniford, and R. Cunningham. First Workshop on Rapid Malcode (WORM), 2003.
+### Selected Publications for Lay Audiences
 
-    Inside the Slammer Worm pdf bib
+- [Lawfare Media Contibutor's Page](https://www.lawfaremedia.org/contributors/nweaver)
 
-    D. Moore, V. Paxson, S. Savage, C. Shannon, S. Staniford, and N. Weaver. IEEE Magazine of Security and Privacy
+- some more here
 
-    Post Placement C-slow Retiming for the Xilinx Virtex FPGA pdf bib
+### Tutorials
 
-    N. Weaver, Y. Markovskiy, Y. Patel, and J. Wawrzynek, ACM Symposium on Field Programmable Gate Arrays (FPGA). February 2003.
+- Understanding and Adressing the Threat of Internet Worms
+V. Paxson, S. Savage, G. Voelker, and N. Weaver, *USENIX Security Conference 2006*
 
-    How to 0wn the Internet in Your Spare Time pdf bib
+- The Worm and Virus Threat
+D. Ellis and N. Weaver. *Annual Computer Security Applications Conference (ACSAC), December 2003 and December 2004*
 
-    V. Paxson, S. Staniford, and N. Weaver. USENIX Security Symposium, August 2002.
+### Professional Activities
 
-    A Comparison of the AES Candidates Amenability to FPGA Implementation pdf bib
+- Program Co Chair: NPSec 2005
 
-    N. Weaver and J. Wawrzynek. The Third Advanced Encryption Standard (AES) Candidate Conference, 2000
-
-    Object-Oriented Circuit Generators in Java pdf bib
-
-    M. Chu, N. Weaver, J. Sulimma, A. DeHon, and J. Wawrzynek. IEEE Symposium on Field Programmable Custom Computing Machines (FCCM), 1998
-
-Book Chapters
-
-    Very Fast Containment of Scanning Worms, Revisited
-
-    N. Weaver, S. Staniford, and V. Paxson. From Malware Detection, edited by Mihai Christodorescu, Somesh Jha, Douglas Maughan, Dawn Song, and Cliff Wang, Published by Springer/Verlag Copyright 2007, ISBN 978-0-387-32720-4, Pages 113-145
-
-    Chapter 18: Retiming, Repipelining, and C-Slow Retiming
-
-    N. Weaver. From Reconfigurable Computing: The Theory and Practice of FPGA-Based Computing, edited by Scott Hauck and Andre DeHon, Published by Morgan Kaufmann/Elsevier. Copyright 2007, ISBN 978-0123705228, Pages 383-400
-
-Posters
-
-    The Effect of Datapath Placement and C-Slow Retiming on Three Computational Benchmarks
-
-    N. Weaver and J. Wawrzynek, IEEE Symposium on Field Programmable Custom Computing Machines (FCCM), May 2002. Original paper in pdf
-
-    Corner Turning FPGA: Motivation and Routing
-
-    N. Weaver and J. Wawrzynek, 9th ACM Symposium on Field Programmable Gate Arrays (FPGA), February 2001. Original paper in pdf
-
-Web Publishing and Technical Reports
-
-    GQ: Realizing a System to Catch Worms in a Quarter Million Places pdf bib
-
-    W. Cui, V. Paxson, and N. Weaver. ICSI Technical Report TR-06-004, September 2006
-
-    The Spread of the Sapphire/Slammer Worm html
-
-    D. Moore, V. Paxson, S. Savage, C. Shannon, S. Staniford, and N. Weaver. CAIDA Technical Report. A revised version appeared in the August 2003 IEEE Magazine of Security and Privacy.
-
-    Large Scale Malicious Code: A Research Agenda pdf bib
-
-    N. Weaver, V. Paxson, S. Staniford, and R. Cunningham. DARPA sponsored report. 2003
-
-    A High Performance, Compact Rijndael (AES) Core for Virtex FPGAs pdf
-
-    N. Weaver and J. Wawryznek.
-
-    Warhol Worms, the Potential for Very Fast Internet Plagues html
-
-    N. Weaver
-
-Selected Publications for Lay Audiences
-
-    WiredAuthor page
-
-    LawfareAuthor page
-
-Tutorials
-
-    Understanding and Adressing the Threat of Internet Worms
-
-    V. Paxson, S. Savage, G. Voelker, and N. Weaver, USENIX Security Conference, August 2006
-
-    The Worm and Virus Threat
-
-    D. Ellis and N. Weaver. Annual Computer Security Applications Conference (ACSAC), December 2003 and December 2004
-
-Professional Activities
-
-    Program Co Chair
-
-    NPSec 2005
-
-    Program Committe Member
-
+- Program Committe Member:
     Workshop on Economics and Computer Security 2025
     Usenix Security 2016
     Internet Measurement Conference 2015
@@ -303,45 +249,53 @@ Professional Activities
     CSAW 2007
     Field Programmable Gate Arrays (FPGA) 2005 
 
-Teaching Experience
+### Classes Instructed
 
-    Instructor
+- Computer Science 36B (Object Oriented Programing), UC Davis.  Fall 2024, Spring 2025
 
-    Fall 2016, UC Berkeley, Computer Science 161: Computer Security
-    Spring 2016, UC Berkeley, Computer Science 194: Advanced topics in Networking
-    Spring 2016, UC Berkleey, Computer Science 61C: Great Ideas in Computer Architecture (Machine Structures)
-    Summer 1998, UC Berkeley, Computer Science 61C: Machine Structures
-    Fall 1997, UC Berkeley, Computer Science 198: Special Topics, A Survey of Computer Science
+- Computer Science 158 (Programming Parallel Architectures), UC Davis. Spring 2025
 
-    Teaching Assistant
+- Computer Science 50 (Machine Dependent Programming), UC Davis.  Spring 2024, Winter 2025
 
-    Spring 2001, UC Berkeley, Computer Science 164: Programming Languages and Compilers
-    Fall 1996, UC Berkeley, Computer Science 150: Digital Design
-    Fall 1995, UC Berkeley, Computer Science 169: Software Engineering
-    Spring 1995, UC Berkeley, Computer Science 150: Digital Design
+- Computer Science 142 (Compilers), UC Davis.  Winter 2025
 
-Professional Experience
+- Computer Science 32C (Data Structures in C), UC Davis, Fall 2024
 
-    International Computer Science Institute
+- Computer Science 36C (Data Structures), UC Davis, Winter 2024
 
-    Graduate Student Researcher (September 2003 to October 2003), Postdoctoral/Staff Researcher (November 2003-present). Developing techniques to simulate, analyze, detect, and respond to worms, network attacks, network security, network measurement, and related issues.
+- Computer Science 32B (Data Structures), UC Davis, Fall 2023
 
-    University of California at Berkeley
+- Computer Science 302 (Pedagogy), UC Berkeley, Spring 2023
 
-    Lecturer in Computer Science. Classes taught: Spring 2016 Computer Science 61C (Machine Structures), Computer Science 194 (Practical Networking). Fall 2016 Computer Science 161 (Computer Security)
+- Computer Science 161 (Computer Security), UC Berkeley, Fall 2016, Fall 2017, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Fall 2021, Spring 2022
 
-    UC San Diego
+- Computer Science 61C (Computer Architecture), UC Berkeley, Summer 1998, Spring 2016, Spring 2017, Spring 2018, Spring 2019, Spring 2020, Spring 2021, Fall 2021, Spring 2022
 
-    (January 2012 - December 2013). Visiting Researcher. Developing techniques to simulate, analyze, detect, and respond to worms, network attacks, network security, and related issues.
+- Electrical Engineering and Computer Science 151 (Digital Design), UC Berkeley, Spring 2018
 
-    UC Berkeley
+- Computer Science 194 (Special Topics in Networking), UC Berkeley, Spring 2017
 
-    (January 2010 - December 2011, January 2014 - June 2015). Visiting Researcher. Developing techniques to simulate, analyze, detect, and respond to worms, network attacks, network security, and related issues.
+### Professional Experience
 
-    Silicon Defense
+- *International Computer Science Institute* Graduate Student
+   Researcher (September 2003 to October 2003), Postdoctoral/Staff
+   Researcher (November 2003-present). Developing techniques to
+   simulate, analyze, detect, and respond to worms, network attacks,
+   network security, network measurement, and related issues.
 
-    Summer 2002 to February 2003 (part time). Researcher, developing techniques to counter worms and other forms of widespread malicious code.
+- *University of California at Davis* Lecturer: Fall 2023-Spring 2025
 
-    Lawrence Berkeley Laboratory
+- *University of California at Berkeley* Lecturer: Spring 2016-Spring-2023
 
-    Summer 1994. Summer Student, developing parallel implementations and visualization tools for DNA and Protein Sequence Matching.
+- *University of California at San Diego* Visiting Researcher:
+   Developing techniques to simulate, analyze, detect, and respond to
+   worms, network attacks, network security, and related
+   issues. January 2012-December 2013
+
+- *University of California at Berkeley* Visiting Researcher:
+   Developing techniques to simulate, analyze, detect, and respond to
+   worms, network attacks, network security, and related
+   issues. (January 2010 - December 2011, January 2014 - June 2015).
+
+- *Silicon Defense*: Researcher: developing techniques to counter worms and other forms of widespread malicious code. (Summer 2002-February 2003)
+
