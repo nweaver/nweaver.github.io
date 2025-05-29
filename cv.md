@@ -123,63 +123,50 @@ N. Weaver, C. Kreibich, V. Paxson. *USENIX Workshop on Free and Open Communicati
 - [Click Trajectories: End-to-End Analysis of the Spam Value Chain](papers/2011-oakland-trajectory.pdf)
 K. Levchenko, A. Pitsillidis, N. Chachra, B. Enright, M. Felegyhazi, C. Grier, T. Halvorson, C. Kanich, C. Kreibich, H. Liu, D. McCoy, N. Weaver, V. Paxson, G. M. Voelker, and S. Savage. *IEEE Symposium on Security and Privacy 2011* (**Test of Time Award**), Oakland, USA.
 
-    Implications of Netalyzr's DNS Measurements pdf bib
+- [Implications of Netalyzr's DNS Measurements](papers/2011-satin-netalyzr.pdf)
+N. Weaver, C. Kreibich, B. Nechaev, V. Paxson. *Workshop on Securing and Trusting Internet Names (SATIN) 2011*
 
-    N. Weaver, C. Kreibich, B. Nechaev, V. Paxson. First Workshop on Securing and Trusting Internet Names (SATIN), 2011, Teddington, UK.
+- [Netalyzr: Illuminating The Edge Network](papers/2010-imc-netalyzr.pdf)
+C. Kreibich, N. Weaver, B. Nechaev, V. Paxson. *Internet Measurement Conference (IMC) 2010* (**Test of Time Award**)
 
-    Netalyzr: Illuminating The Edge Network pdf bib 35 citations
+- [Botnet Judo: Fighting Spam with Itself](papers/2010-ndss-judo.pdf)
+A. Pitsillidis, K. Levchenko, C. Kreibich, C. Kanich, G.M. Voelker, V. Paxson, N. Weaver, S. Savage. *Network and Distributed System Security Symposium 2010*
 
-    C. Kreibich, N. Weaver, B. Nechaev, V. Paxson. Internet Measurement Conference (IMC), 2010, Melbourne, Australia.
+- [An Architecture for Exploiting Multi-Core Processors to Parallelize Network Intrusion Prevention](papers/2009-parallel.pdf)
+R. Sommer, V. Paxson, N. Weaver. *Concurrency and Computation: Practice and Experience, Special Issue: Multi-core Supported Network and System Security, 21(10), pp. 1255-1279, May 2009*
 
-    Botnet Judo: Fighting Spam with Itself pdf bib 30 citations
+- [Edge Caches Should be Free](papers/2009-tprc.pdf)
+N. Weaver. *Tellecommunications Policy Research Conference (TPRC) 2009*
 
-    A. Pitsillidis, K. Levchenko, C. Kreibich, C. Kanich, G.M. Voelker, V. Paxson, N. Weaver, S. Savage. 17th Annual Network and Distributed System Security Symposium, 28 February - 3 March 2010, San Diego, USA.
+- [Detecting Forged TCP Reset Packets](papers/2009-reset.pdf)
+N. Weaver, R. Sommer, V. Paxson. *Network and Distributed Security Symposium (NDSS) 2009*
 
-    An Architecture for Exploiting Multi-Core Processors to Parallelize Network Intrusion Prevention pdf bib
+- [Principles for Developing Comprehensive Network Visibility](papers/2008-hotsec-principles.pdf)
+M. Allman, C. Kreibich, V. Paxson, R. Sommer, N. Weaver. *USENIX Workshop on Hot Topics in Security (HotSec) 2008*
 
-    R. Sommer, V. Paxson, and N. Weaver. Concurrency and Computation: Practice and Experience, Special Issue: Multi-core Supported Network and System Security, 21(10), pp. 1255-1279, May 2009.
+- [Detecting In-Flight Page Changes with Web Tripwires](papers/2008-tripwires.pdf)
+C. Reis, S. Gribble, T. Kohno, N. Weaver. *USENIX Symposium on Network Systems Design and Implementation (NSDI) 2008*
 
-    Edge Caches Should be Free pdf bib
+- [Shunting: A Hardware/Software Architecture for Flexible, High-Pergformance Network Intrusion Prevention](papers/2007-shunting.pdf)
+J. Gonzalez, V. Paxson, Weaver. *ACM Communication and Computer Security (CCS) 2007*
 
-    N. Weaver. Tellecommunications Policy Research Conference (TPRC), September 2009
+- [The Strengths of Weaker Identities: Opportunistic Personas](papers/2007-hotsec-opp-personas.pdf)
+M. Allman, C. Kreibich, V. Paxson, R. Sommer, N. Weaver.  *USENIX Workshop on Hot Topics in Security (HotSec) 2007*
 
-    Detecting Forged TCP Reset Packets pdf bib
+- [An Architecture for Exploiting Multi-Core Processors to Parallelize Network Intrusion Prevention](papers/2007-sarnoff.pdf)
+V. Paxson, R. Sommer, and N. Weaver. *IEEE Sarnoff Symposium*
 
-    N. Weaver, R. Sommer, and V. Paxson. Network and Distributed Security Symposium (NDSS), February 2009
+- [The Shunt: An FPGA-Based Accelerator for Network Intrusion Prevention](2007-shunt-fpga.pdf)
+N. Weaver, V. Paxson, J. Gonzalez. *ACM Symposium on Field Programmable Gate Arrays (FPGA) 2007*
 
-    Principles for Developing Comprehensive Network Visibility pdf 8 citations
+- [Rethinking Hardware Support for Network Analysis and Intrusion Prevention](papers/2006-rethinking.pdf)
+V. Paxson, K. Asanovic, S. Dharmapurikar, J. Lockwood, R. Pang, R. Somer, N. Weaver. *USENIX Workshop on Hot Topics in Security (HotSec) 2006*
 
-    M. Allman, C. Kreibich, V. Paxson, R. Sommer, and N. Weaver. 3rd USENIX Workshop on Hot Topics in Security (HotSec '08), 29 July 2008, San Jose, USA.
+- [Protocol-Independent Adaptive Replay of Application Dialog](papers/2006-replay.pdf)
+W. Cui, V. Paxson, N. Weaver, R. Katz, *Network and Distributed Security Symposium (NDSS) 2006*
 
-    Detecting In-Flight Page Changes with Web Tripwires pdf bib
-
-    C. Reis, S. Gribble, T. Kohno, and N. Weaver. USENIX Symposium on Network Systems Design and Implementation (NSDI), April 2008.
-
-    Shunting: A Hardware/Software Architecture for Flexible, High-Pergformance Network Intrusion Prevention pdf bib
-
-    J. Gonzalez, V. Paxson, and N. Weaver. ACM Communication and Computer Security (CCS), October 2007
-
-    The Strengths of Weaker Identities: Opportunistic Personas pdf 6 citations
-
-    M. Allman, C. Kreibich, V. Paxson, R. Sommer, and N. Weaver. Second USENIX Workshop on Hot Topics in Security (HotSec '07), 2007, Boston, USA.
-
-    An Architecture for Exploiting Multi-Core Processors to Parallelize Network Intrusion Prevention pdf bib
-
-    V. Paxson, R. Sommer, and N. Weaver. IEEE Sarnoff Symposium
-
-    The Shunt: An FPGA-Based Accelerator for Network Intrusion Prevention pdf bib
-
-    N. Weaver, V. Paxson, and J. Gonzalez. ACM Symposium on Field Programmable Gate Arrays (FPGA). February 2007
-
-    Rethinking Hardware Support for Network Analysis and Intrusion Prevention pdf bib
-
-    V. Paxson, K. Asanovic, S. Dharmapurikar, J. Lockwood, R. Pang, R. Somer, and N. Weaver. USENIX Workshop on Hot Topics in Security (HotSec), August 2006
-
-    Protocol-Independent Adaptive Replay of Application Dialog pdf bib
-
-    W. Cui, V. Paxson, N. Weaver, and R. Katz, Network and Distributed Security Symposium (NDSS), February 2006
-
-    Exploting Unterlying Structure for Detailed Reconstruction of an Internet Scale Event pdf bib A. Kumar, V. Paxson, and N. Weaver, ACM Internet Measurement Conference (IMC), October 2005
+- [Exploting Unterlying Structure for Detailed Reconstruction of an Internet Scale Event](papers/2005-reconstruction.pdf)
+A. Kumar, V. Paxson, N. Weaver, *ACM Internet Measurement Conference (IMC) 2005*
 
     Templace
 
