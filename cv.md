@@ -48,24 +48,20 @@ P. Pearce, B. Jones, F. Li, R. Ensafi, N. Feamster, N. Weaver, V. Paxson.  *Usen
 - [Autosonda: Discovering Rules and Triggers of Censorship Devices](papers/2017-foci-jermyn.pdf)
 J. Jermyn, N. Weaver, *Free and Open Communication on the Internet (FOCI) 2017*
 
-- [A Multi-perspective Analysis of Carrier-Grade NAT Deployment](papers/2016-imc-nat.pdf)
-P. Richter, F Wohlfart, N Vallina-Rodriguez, M. Allman, R. Bush, A. Feldmann, C. Kreibich, N. Weaver, V. Paxson.  *Internet Measurement Conference (IMC) 2016*
+- [A Multi-perspective Analysis of Carrier-Grade NAT
+Deployment](papers/2016-imc-nat.pdf) P. Richter, F Wohlfart, N
+Vallina-Rodriguez, M. Allman, R. Bush, A. Feldmann, C. Kreibich,
+N. Weaver, V. Paxson.  *Internet Measurement Conference (IMC) 2016*
 
-    Host of Troubles: Multiple Host Ambiguities in HTTP Implementations
+- [Host of Troubles: Multiple Host Ambiguities in HTTP Implementations](papers/2016-CCS-host.pdf)
+J Chen, J Jiang, H. Duan, N. Weaver, T. Wan, V. Paxson. *ACM Communications and Computer Security (CCS) 2016*
 
-    J Chen, J Jiang, H. Duan, N. Weaver, T. Wan, V. Paxson. ACM CCS 2016
+- [Detecting DNS Root Manipulation](papers/2016-PAM-dns.pdf)
+B. Jones, N. Feamster, V. Paxson, N. Weaver, and M. Allman, *Passive and Active Measurement (PAM) 2016*
 
-    A Multi-perspective Analysis of Carrier-Grade NAT Deployment
-
-    P. Richter, F Wohlfart, N Vallina-Rodriquez, M. Allman, R. Bush, C. Kreibich, N. Weaver, V. Paxson, ACM Internet Measurement Conference 2016
-
-    Detecting DNS Root Manipulation pdf
-
-    B. Jones, N. Feamster, V. Paxson, N. Weaver, and M. Allman, , Proc. Passive & Active Measurement: PAM-2016.
-
-    The Golden Age of Bulk Surveillance video
-
-    N. Weaver, USENIX Enigma 2016
+- [The Golden Age of Bulk
+  Surveillance](https://www.usenix.org/conference/enigma2016/conference-program/presentation/weaver)
+  N. Weaver, *USENIX Enigma 2016*
 
     Examining How the Great Firewall Discovers Hidden Circumvention Servers pdf
 
