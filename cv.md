@@ -70,33 +70,28 @@ R. Ensafi, D. Fifield, P. Winter, N. Feamster, N. Weaver, V. Paxson. *ACM Intern
 - [Cookies Lack Integrity: Real-World Implications](papers/2015-usenix-cookies.pdf)
 X. Zheng, J. Jiang, J. Liang, H. Duan, S. Chen, T. Wan, N. Weaver. *Usenix Security 2015*
 
-    An Analysis of China's "Great Cannon" web
+- [An Analysis of China's "Great Cannon"](papers/2015-foci-cannon.pdf)
+B. Marczak, N. Weaver, J. Dalek, R. Ensafi, D. Fifield, S. McKune,
+A. Rey, J. Scott-Railton, R. Deibert, V. Paxson. *Free and Open
+Communication on the Internet (FOCI) 2015*
 
-    B. Marczak, N. Weaver, J. Dalek, R. Ensafi, D. Fifield, S. McKune, A. Rey, J. Scott-Railton, R. Deibert, and V. Paxson. FOCI 2015
+- [Temporal Lensing and its Application in Pulsing Denial-of-Service Attacks](papers/2015-oakland-lense.pdf)
+R. Rasti, M. Murthy, N. Weaver, V. Paxson. *IEEE Symposium on Security and Privacy 2015*
 
-    Temporal Lensing and its Application in Pulsing Denial-of-Service Attacks pdf
+- [Ethical Concerns for Censorship Measurement](papers/2015-ethics.pdf)
+B. Jones, R. Ensafi, N. Feamster, V. Paxson, N. Weaver. *SIGCOMM Workshop on Ethics in Networked Systems Research 2015*
 
-    R. Rasti, M. Murthy, N. Weaver, and V. Paxson. IEEE Symposium on Security and Privacy 2015
+- [A Tangled Mass: The Android Root Certificate Stores](papers/2014-Conext.pdf)
+N. Vallina-Rodriguez, J. Amann, C. Kreibich, N. Weaver, V. Paxson. *ACM CoNEXT 2014* (**Best Short Paper award**)
 
-    Ethical Concerns for Censorship Measurement pdf
+- [The Matter of Heartbleed](papers/2014-imc-heartbleed.pdf)
+Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, J. Halderman. *Internet Measucement Conference (IMC) 2014* (**Best Paper award**)
 
-    B. Jones, R. Ensafi, N. Feamster, V. Paxson, and N. Weaver. Proc. SIGCOMM Workshop on Ethics in Networked Systems Research, August 2015.
+- [Here Be Web Proxies](papers/2014-pam-proxies.pdf)
+N. Weaver, C. Kreibich, M. Dam V. Paxson, *Passive & Active Mesaurement (PAM) 2014*
 
-    A Tangled Mass: The Android Root Certificate Stores pdf
-
-    N. Vallina-Rodriguez, J. Amann, C. Kreibich, N. Weaver, and V. Paxson. ACM CoNEXT 2014 (Best Short Paper award)
-
-    The Matter of Heartbleed pdf
-
-    Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, and J. Halderman. Internet Measucement Conference 2014 (Best Paper award)
-
-    Here Be Web Proxies pdf
-
-    N. Weaver, C. Kreibich, M. Dam and V. Paxson, Passive & Active Mesaurement 2004
-
-    Internet Nameserver IPv4 and IPv6 Address Relationships
-
-    A. Berger, N. Weaver, R. Beverly, and L. Campbell Internet Measurement Conference (IMC) 2013, Barcelona, Spain.
+- [Internet Nameserver IPv4 and IPv6 Address Relationships](papers/2013-IMC.pdf)
+A. Berger, N. Weaver, R. Beverly, L. Campbell *Internet Measurement Conference (IMC) 2013*
 
     Practical Comprehensive Bounds on Surreptitious Communication Over DNS
 
