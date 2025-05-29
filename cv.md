@@ -42,8 +42,14 @@ N. Weaver, *Communications of the ACM* June 2018
 - [The Accuracy of the Demographic Inferences Shown on Google's Ad Settings](papers/2018-ads.pdf)<BR>
 M. Tschantz, S. Egelman, J. Choi, N. Weaver, G. Friedland.  *Workshop on Privacy in the Electronic Society 2018*
 
-- [Global Measurement of DNS Manipulation]
+- [Global Measurement of DNS Manipulation](papers/2017-DNS-usenix.pdf)
+P. Pearce, B. Jones, F. Li, R. Ensafi, N. Feamster, N. Weaver, V. Paxson.  *Usenix Security 2017*
 
+- [Autosonda: Discovering Rules and Triggers of Censorship Devices](papers/2017-foci-jermyn.pdf)
+J. Jermyn, N. Weaver, *Free and Open Communication on the Internet (FOCI) 2017*
+
+- [A Multi-perspective Analysis of Carrier-Grade NAT Deployment](papers/2016-imc-nat.pdf)
+P. Richter, F Wohlfart, N Vallina-Rodriguez, M. Allman, R. Bush, A. Feldmann, C. Kreibich, N. Weaver, V. Paxson.  *Internet Measurement Conference (IMC) 2016*
 
     Host of Troubles: Multiple Host Ambiguities in HTTP Implementations
 
