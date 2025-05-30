@@ -12,7 +12,7 @@ mad science.
 
 ## Project Kestrel
 
-<img align="left" src="resources/kestrel-board.jpg" alt="Kestrel Board" width=100>
+<img align="right" src="resources/kestrel-board.jpg" alt="Kestrel Board" width=100>
 
 The Kestrel design is a small, highly integrated autopilot design for
 small drones which couples a Raspberry Pi compute module to an
@@ -33,7 +33,7 @@ chip for a LoRa datalink.
 - Consider a revised design to fix identified bugs, switch to a more
   advanced IMU chip, and other related changes
 
-<br clear="left">
+<br clear="right">
 
 ## Project Sparrowhawk
 
