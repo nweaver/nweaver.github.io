@@ -1,4 +1,6 @@
-## Skerry Technologies
+---
+title: Skerry Technologies
+---
 
 ## Putting the *Science* in Mad Science
 
