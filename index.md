@@ -20,6 +20,8 @@ ardupilot-compatable autopilot board that includes two MIPI CSI2
 camera interfaces, a GPS, an IMU, power distribution, and a separate
 chip for a LoRa datalink.
 
+<br clear="left">
+
 ### Current Status
 
 - Previous version successfully flew using Ardupilot
@@ -33,7 +35,7 @@ chip for a LoRa datalink.
 - Consider a revised design to fix identified bugs, switch to a more
   advanced IMU chip, and other related changes
 
-<br clear="left">
+
 
 ## Project Sparrowhawk
 
