@@ -10,7 +10,35 @@ mad science.
 
 ## Project Kestrel
 
+<img align="left" src="resources/kestrel-board.png" alt="Kestrel Board">
+
+The Kestrel design is a small, highly integrated autopilot design for
+small drones which couples a Raspberry Pi compute module to an
+ardupilot-compatable autopilot board that includes two MIPI CSI2
+camera interfaces, a GPS, an IMU, power distribution, and a separate
+chip for a LoRa datalink.
+
+### Current Status
+
+- Previous version successfully flew using Ardupilot
+
+### ToDo List
+
+- Port Ardupilot to the current board
+
+- Port ExpressLRS to the ESP32 datalink chip
+
+- Consider a revised design to fix identified bugs, switch to a more
+  advanced IMU chip, and other related changes
+
+<br clear="left">
+
 ## Project Sparrowhawk
+
+Project Sparrowhawk is in initial planning, looking at developing
+clean-sheet software for a low level drone autopilot that takes
+advantage of modern, multicore microprocessors and the far more robust
+Rust programming language.
 
 ## Dr Nicholas Weaver
 
