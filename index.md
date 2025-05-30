@@ -12,7 +12,7 @@ mad science.
 
 ## Project Kestrel
 
-<img align="left" src="resources/kestrel-board.png" alt="Kestrel Board">
+<img align="left" src="resources/kestrel-board.jpg" alt="Kestrel Board" width=100>
 
 The Kestrel design is a small, highly integrated autopilot design for
 small drones which couples a Raspberry Pi compute module to an
