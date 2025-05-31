@@ -33,21 +33,16 @@ real-time processing to a dedicated coprocessor.
 ### Current Status
 
 - Previous version successfully flew using Ardupilot
-
 - Current version has partial validation: Power supply, CM4
   interfacing, camera interfacing, and GPS are verified as working.
-
 - Trial physical integration into a small quadcopter using an
   off-the-shelf racing drone frame.
 
 ### ToDo List
 
 - Port Ardupilot to the current board and fly under remote control.
-
 - Port ExpressLRS to the ESP32 datalink chip.
-
 - Implement RemoteID on the ESP32 datalink chip.
-
 - Consider a revised design to fix identified bugs, switch to a more
   advanced IMU chip, and other related changes.
 
