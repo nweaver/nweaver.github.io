@@ -8,7 +8,8 @@ Welcome to Skerry Technologies, my (currently one-man, completely
 unfunded, almost might as well consider it a hobby) Research and
 Development operation focused on small Unmanned Aerial Systems.
 Although, in all honesty, it more like "mad engineering" rather than
-mad science.
+mad science: its all about trying to understand how to extend the
+state of the art in small autonomous drones.
 
 ## Project Kestrel
 
@@ -20,22 +21,35 @@ ardupilot-compatable autopilot board that includes two MIPI CSI2
 camera interfaces, a GPS, an IMU, power distribution, and a separate
 chip for a LoRa datalink.
 
+The major idea is that by coupling a Raspberry Pi compute module into
+a small drone it should be possible to build small, vision based
+autonomy in a very low-cost package.  The RP4 compute module has *just
+enough* compute to do a reasonable amount of vision processing and, by
+coupling it to an independent autopilot, offload all the true
+real-time processing to a dedicated coprocessor.
+
 <br clear="left">
 
 ### Current Status
 
 - Previous version successfully flew using Ardupilot
 
+- Current version has partial validation: Power supply, CM4
+  interfacing, camera interfacing, and GPS are verified as working.
+
+- Trial physical integration into a small quadcopter using an
+  off-the-shelf racing drone frame.
+
 ### ToDo List
 
-- Port Ardupilot to the current board
+- Port Ardupilot to the current board and fly under remote control.
 
-- Port ExpressLRS to the ESP32 datalink chip
+- Port ExpressLRS to the ESP32 datalink chip.
+
+- Implement RemoteID on the ESP32 datalink chip.
 
 - Consider a revised design to fix identified bugs, switch to a more
-  advanced IMU chip, and other related changes
-
-
+  advanced IMU chip, and other related changes.
 
 ## Project Sparrowhawk
 
@@ -43,6 +57,73 @@ Project Sparrowhawk is in initial planning, looking at developing
 clean-sheet software for a low level drone autopilot that takes
 advantage of modern, multicore microprocessors and the far more robust
 Rust programming language.
+
+The two primary current open-source autopilot stacks are Ardupilot and
+Betaflight.  Ardupilot is a large open-source project written in older
+(circa 2010) C++, while Betaflight (a fork of Cleanflight) is a
+stripped down design targeting quadcapters written in C.
+
+Also, although highly integrated in some aspects, neither are designed
+to integrate communication, FAA-mandated DroneID, or to take advantage
+of modern multicore embedded processors.
+
+### Intended Hardware Archictecture
+
+The intended autopilot architecture will be a single-sided board with
+a 30.5x30.5 mounting form factor with JST connectors.  The board will also
+have castillated connections allowing it to be integrated into larger
+designs as well.
+
+- CPU:  Raspberry Pi RP2350 in the QFN-80 package
+- IMU:  TDK 42688
+- Compass: Memsic MMC5983MA
+- Barometer: 2x Bosch BMP 390, one with a mounting point to connect to a pitot tube
+- GPS: UBlox MIA-M10-Q with an external antenna connector
+- WiFi:  Espressif ESP32C3 with a separate connection to the GPS
+- LoRa: Semtec, either the LR2021 or SX1280 with an external power
+  amplifier
+- Power: Unreglated LiPo to 5V buck converter
+- Power: 5V to 3.3V LDO
+
+### Why Rust?
+
+The use of C and older C++ produces code is inherently unsafe: unable
+to be effectively analyzed for correctness and likely rife with memory
+errors.  At the same time the hard real-time constraints involved in
+operating a drone (a 4-8 kHz update loop that polls the IMU, filters
+the noise, and updates the operating state of the motors and
+actuators) prohibit the use of any language without C or C++'s
+garbage-collector free memory semantics or emphasis on zero-overhead
+abstractions.
+
+Thus the only languages that can be safely used to engineer the core
+of an autopilot are agressively modern C++ (no raw pointers,
+collections with checking assertions enabled, etc) or Rust.  Since
+either language choice require effectively either a complete rewrite
+of an existing codebase or a clean-sheet design the choice of Rust is
+straightforward.
+
+Using Rust will not only gain the inherent safety advantages that are
+built into the language from the start (Rust's design philosophy is
+similar to C++ in a focus on zero-overhead abstractions but not at the
+cost of safety, unlike modern C++ which can only be safe with explicit
+programmer discipline), but will also serve as an experiment, allowing
+an evaluation of Rust in practice.
+
+### Why multicore?
+
+The Raspberry Pi microcontrollers as well as the ESP32 line from
+Espressif have introduced symmetric multicore designs into the
+microcontroller space.  These families of microcontrollers not only
+offer a significantly lower price point than competing designs from ST
+Microsystems but far more flexible I/O structures, allowing one or two
+packages to cover most uses.
+
+The new RP2350 in particular is an excellent part.  Full system BOM
+cost is less than $3 and it contains a dual core ARM Cortex-M33 at
+150MHz with floating point and 30 or 48 highly flexible general
+purpose I/O pins.  It also ships with modern code signing and security
+features.
 
 ## Dr Nicholas Weaver
 
