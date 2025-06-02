@@ -28,9 +28,9 @@ enough* compute to do a reasonable amount of vision processing and, by
 coupling it to an independent autopilot, offload all the true
 real-time processing to a dedicated coprocessor.
 
-<br clear="left">
-
 ### Current Status
+
+<img style="padding: 0px 4px 0px 0px" align="left" src="resources/kestrel-in-frame.jpg" alt="Kestrel In Frame" width=100>
 
 - Previous version successfully flew using Ardupilot
 - Current version has partial validation: Power supply, CM4
@@ -38,13 +38,14 @@ real-time processing to a dedicated coprocessor.
 - Trial physical integration into a small quadcopter using an
   off-the-shelf racing drone frame.
 
-### ToDo List
+### Hardware ToDo List
 
 - Port Ardupilot to the current board and fly under remote control.
 - Port ExpressLRS to the ESP32 datalink chip.
 - Implement RemoteID on the ESP32 datalink chip.
 - Consider a revised design to fix identified bugs, switch to a more
-  advanced IMU chip, and other related changes.
+  advanced IMU chip, support for the CM5 compute module, and other
+  related changes.
 
 ## Project Sparrowhawk
 
@@ -56,11 +57,18 @@ Rust programming language.
 The two primary current open-source autopilot stacks are Ardupilot and
 Betaflight.  Ardupilot is a large open-source project written in older
 (circa 2010) C++, while Betaflight (a fork of Cleanflight) is a
-stripped down design targeting quadcapters written in C.
+stripped down design targeting quadcapters written in C.  Also,
+although highly integrated in some aspects, neither are designed to
+integrate communication, FAA-mandated DroneID, or to take advantage of
+modern multicore embedded processors.
 
-Also, although highly integrated in some aspects, neither are designed
-to integrate communication, FAA-mandated DroneID, or to take advantage
-of modern multicore embedded processors.
+The overall objectives are:
+
+- Develop a small, low cost referennce hardware design
+- Develop a new software stack for the hardware
+- Evaluate Rust's applicability for the embedded environment
+- Provide a platform for an integrated systems textbook
+- Meet BlueUAS framework requirements for government use
 
 ### Intended Hardware Archictecture
 
@@ -79,6 +87,10 @@ designs as well.
   amplifier
 - Power: Unreglated LiPo to 5V buck converter
 - Power: 5V to 3.3V LDO
+
+The intended design is small enough that it can be constructed as a
+4-layer board and assembled in-house on an existing small pick & place
+machine.
 
 ### Why Rust?
 
