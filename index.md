@@ -2,6 +2,8 @@
 title: Skerry Technologies
 ---
 
+<img src="resources/logo.png" align="center" width="80%">
+
 ## Putting the *Science* in Mad Science
 
 Welcome to Skerry Technologies, my (currently one-man, completely
