@@ -32,11 +32,15 @@ real-time processing to a dedicated coprocessor.
 
 <img style="padding: 0px 4px 0px 0px" align="left" src="resources/kestrel-in-frame.jpg" alt="Kestrel In Frame" width=100>
 
-- Previous version successfully flew using Ardupilot
-- Current version has partial validation: Power supply, CM4
-  interfacing, camera interfacing, and GPS are verified as working.
-- Trial physical integration into a small quadcopter using an
-  off-the-shelf racing drone frame.
+A previous version of this board has already flown under remote
+control using Ardupilot as the on-board autopilot and successfully
+recorded video in flight showing the cameras and compute module as
+fully operational.
+
+The current board is still undergoing partial validation: the power
+supply, CM4, cameras, and GPS are all verified as working.  Physical
+integration into a small quadcopter chassis was also successfully
+performed.
 
 ### Hardware ToDo List
 
@@ -46,6 +50,10 @@ real-time processing to a dedicated coprocessor.
 - Consider a revised design to fix identified bugs, switch to a more
   advanced IMU chip, support for the CM5 compute module, and other
   related changes.
+
+### Software ToDo List
+
+- Lots
 
 ## Project Sparrowhawk
 
