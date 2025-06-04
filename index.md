@@ -150,6 +150,14 @@ multicore architecture enables segregation: the critical real-time
 control loop will run on the second processor while all the other
 tasks, including the interrupt handler, run on the first processor.
 
+### Internal Notes
+
+Recently when I've been teaching undergraduate programming I've made
+my internal notes for assignments public.  I think this is a good
+practice so for this project I am doing it as well.  My internal notes
+page is
+[here](https://docs.google.com/document/d/1hUa0FrdigLGIdXH2zxKp_NfoEdorLFmMxy68qCo7wcw/).
+
 ## Dr Nicholas Weaver
 
 <img align="right" src="resources/headshot.png" alt="Nicholas Weaver">
