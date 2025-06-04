@@ -8,7 +8,8 @@ title: Skerry Technologies
 
 Welcome to Skerry Technologies, my (currently one-man, completely
 unfunded, almost might as well consider it a hobby) Research and
-Development operation focused on small Unmanned Aerial Systems.
+Development operation focused on small Unmanned Aerial Systems. 
+
 Although, in all honesty, it more like "mad engineering" rather than
 mad science: its all about trying to understand how to extend the
 state of the art in small autonomous drones.
@@ -50,8 +51,8 @@ performed.
 - Port ExpressLRS to the ESP32 datalink chip.
 - Implement RemoteID on the ESP32 datalink chip.
 - Consider a revised design to fix identified bugs, switch to a more
-  advanced IMU chip, support for the CM5 compute module, and other
-  related changes.
+  advanced IMU chip, support for the CM5 compute module, better
+  internal programming paths, and other changes.
 
 ### Software ToDo List
 
@@ -100,7 +101,8 @@ designs as well.
 
 The intended design is small enough that it can be constructed as a
 4-layer board and assembled in-house on an existing small pick & place
-machine.
+machine.  It should also be able to trivially meet BlueUAS component
+criteria allowing it to be used in US government applications.
 
 ### Why Rust?
 
@@ -117,8 +119,8 @@ Thus the only languages that can be safely used to engineer the core
 of an autopilot are agressively modern C++ (no raw pointers,
 collections with checking assertions enabled, etc) or Rust.  Since
 either language choice require effectively either a complete rewrite
-of an existing codebase or a clean-sheet design the choice of Rust is
-straightforward.
+of an existing codebase or a clean-sheet design the choice of Rust
+seems reasonable.
 
 Using Rust will not only gain the inherent safety advantages that are
 built into the language from the start (Rust's design philosophy is
@@ -141,6 +143,12 @@ cost is less than $3 and it contains a dual core ARM Cortex-M33 at
 150MHz with floating point and 30 or 48 highly flexible general
 purpose I/O pins.  It also ships with modern code signing and security
 features.
+
+The software would probably be written as a "bare metal" application
+which does not rely on an embedded real-time OS.  However the use of a
+multicore architecture enables segregation: the critical real-time
+control loop will run on the second processor while all the other
+tasks, including the interrupt handler, run on the first processor.
 
 ## Dr Nicholas Weaver
 
