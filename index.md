@@ -58,6 +58,35 @@ performed.
 
 - Lots
 
+Overall, the software stack beyond using existing components exists as
+a paper design with effectively no coding.  The primary focus would be
+on "old-school" machine vision rather than anything "AI based".  This
+is both to improve performance (most ML-based image processing is
+expensive) and to provide much stronger explainability.
+
+I've previously had a few students experiment with portions of the
+pipeline and it is clear that the Raspberry Pi CM4 has sufficient
+compute for a few frames-per-second vision processing with a 1080p
+camera.
+
+Low altitude operation: Very low altitude (under 50m altitude) is
+focused primarily on collision avoidance.  The primary pipeline in
+this mode focuses on optical flow, a traditional machine vision
+technique to recreate a 3D environment from a moving camera.
+
+Aerial target recognition: Optial flow is also used to drive target
+identification and recognition.  For aerial targets (such as
+applications like counter-drone or bird abatement), optical flow is
+used to isolate items in space.  Only such items are passed to
+machine-learning based target recognition.
+
+Attention-based scanning: In higher altitude operations the software
+will take advantage of high resolution cameras with digital
+pan/tilt/zoom.  Normally the software will use the entire field of
+view at low resolution (1080p/30fps), but if any region appears
+interesting, it will perform a digital zoom to isolate the area of
+interest for applying ML target recognition.
+
 ## Project Sparrowhawk
 
 Project Sparrowhawk is in initial planning, looking at developing
