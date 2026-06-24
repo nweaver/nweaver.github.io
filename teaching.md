@@ -100,11 +100,11 @@ teach computer science in the age of AI.
 
 Modern IDEs robustly support remote development where the user
 interface is separated from the actual coding environment.  This can
-take the form of a container or an ssh connection to a remote system.
+take the form of a container or an `ssh` connection to a remote system.
 I previously used containerized development with VSCode for first-year
 students with C and C++ with great success.
 
-If students use remote ssh connections to a server we control, this
+If students use remote `ssh` connections to a server we control, this
 not only enables a consistent environment but also enables us to
 provide custom VSCode or JetBrains extensions.  A custom extension can
 not only disable the AI copilot but also log all keystrokes in a
