@@ -14,6 +14,9 @@ Although, in all honesty, it more like "mad engineering" rather than
 mad science: its all about trying to understand how to extend the
 state of the art in small autonomous drones.
 
+This is also where I post some personal items, such as my
+[cv](/cv.html) and my [statement on teaching](/teaching.html).
+
 ## Project Kestrel
 
 <img style="padding: 0px 4px 0px 0px" align="left" src="resources/kestrel-board.jpg" alt="Kestrel Board" width=100>
