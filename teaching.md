@@ -43,7 +43,8 @@ situations where an incorrect answer is embarrassing to the chatbot
 developer.
 
 This means that LLM output must never be used in a student facing
-context.  If the output is unchecked we present the students with
+context where the output is presented as 'correct' without automatic
+checking.  If the output is unchecked we present the students with
 unfiltered bullshit.  Checking the output is not sufficient as humans
 are notoriously poor at checking automated processes while the
 overhead of checking bullshit is often the same or even higher than
