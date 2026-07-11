@@ -1,5 +1,5 @@
 ---
-title: Statement on Teaching
+title: Statement on Teaching:  Effective Programming in the Age of AI
 ---
 
 
