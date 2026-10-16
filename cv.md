@@ -67,7 +67,7 @@ B. Jones, R. Ensafi, N. Feamster, V. Paxson, N. Weaver. *SIGCOMM Workshop on Eth
 - [A Tangled Mass: The Android Root Certificate Stores](papers/2014-Conext.pdf)
 N. Vallina-Rodriguez, J. Amann, C. Kreibich, N. Weaver, V. Paxson. *ACM CoNEXT 2014* (**Best Short Paper Award**)
 - [The Matter of Heartbleed](papers/2014-imc-heartbleed.pdf)
-Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, J. Halderman. *Internet Measucement Conference (IMC) 2014* (**Best Paper Award**)
+Z. Durumeric, F. Li, J. Kasten, J. Amann, J. Beekman, M. Payer, N. Weaver, D. Adrian, V. Paxson, M. Bailey, J. Halderman. *Internet Measucement Conference (IMC) 2014* (**Best Paper Award**, **Test of Time Award**)
 - [Here Be Web Proxies](papers/2014-pam-proxies.pdf)
 N. Weaver, C. Kreibich, M. Dam V. Paxson, *Passive & Active Mesaurement (PAM) 2014*
 - [Internet Nameserver IPv4 and IPv6 Address Relationships](papers/2013-IMC.pdf)
